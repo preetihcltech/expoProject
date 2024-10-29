@@ -1,0 +1,16 @@
+{
+  "name": "ExpoUpdateApp",
+  "jsEngine": "hermes",
+  "displayName": "ExpoUpdateApp",
+  "extra": {
+    "eas": {
+      "projectId": "3afa7b22-b76b-4a9e-a4aa-7dfce8fab3e3"
+    }
+  },
+  "runtimeVersion": "1.0.0",
+  "updates": {
+    "url": "https://u.expo.dev/3afa7b22-b76b-4a9e-a4aa-7dfce8fab3e3"
+  },
+  "android": {},
+  "ios": {}
+}
