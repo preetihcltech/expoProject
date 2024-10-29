@@ -1,0 +1,42 @@
+{
+  "buildFiles": [
+    "/Users/preetip/Desktop/Projects/ExpoUpdateApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/preetip/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/preetip/Desktop/Projects/ExpoUpdateApp/android/app/.cxx/Debug/1wa5h6o1/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/preetip/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/preetip/Desktop/Projects/ExpoUpdateApp/android/app/.cxx/Debug/1wa5h6o1/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "appmodules",
+      "output": "/Users/preetip/Desktop/Projects/ExpoUpdateApp/android/app/build/intermediates/cxx/Debug/1wa5h6o1/obj/arm64-v8a/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/preetip/.gradle/caches/8.10.2/transforms/eb4b98dea289284ca2b26e9265bd49ab/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.arm64-v8a/libfbjni.so",
+        "/Users/preetip/.gradle/caches/8.10.2/transforms/2fa3c78e855de2c4ef8aa6911c4216a0/transformed/react-android-0.76.0-debug/prefab/modules/jsi/libs/android.arm64-v8a/libjsi.so",
+        "/Users/preetip/.gradle/caches/8.10.2/transforms/2fa3c78e855de2c4ef8aa6911c4216a0/transformed/react-android-0.76.0-debug/prefab/modules/reactnative/libs/android.arm64-v8a/libreactnative.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/preetip/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/preetip/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
